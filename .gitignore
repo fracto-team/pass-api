@@ -1,0 +1,31 @@
+### Composer ###
+/vendor
+composer.lock
+
+### Laravel ###
+/public/hot
+/public/storage
+/storage/*.key
+.env
+.env.backup
+Homestead.json
+Homestead.yaml
+.phpunit.result.cache
+
+### Linux ###
+*~
+
+### Node ###
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Modules
+/node_modules
+
+### PhpStorm ###
+/.idea

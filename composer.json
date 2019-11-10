@@ -15,6 +15,7 @@
         "laravel/tinker": "^1.0"
     },
     "require-dev": {
+        "ajthinking/tinx": "^2.6",
         "facade/ignition": "^1.4",
         "fzaninotto/faker": "^1.4",
         "laracasts/generators": "^1.1",
